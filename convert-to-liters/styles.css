@@ -1,0 +1,22 @@
+.container {
+width: 200px;
+height: 110px;
+display: flex;
+flex-direction: column;
+background-color: lightgray;
+}
+
+.result {
+display: flex;
+}
+
+.output {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 30px;
+	width:50px;
+	border: 1px solid gray;
+    margin-left: 10px
+}
